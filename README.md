@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a passionate developer, researcher, and learner from B
 - 🎓 Computer Science & Engineering Student  
 - 🤖 Building cool projects in AI, Web Dev, and Cybersecurity  
 - 🧠 Currently working on: **Multimodal Emotion Recognition (Audio + Video)**  
-- 🌱 Learning: Deep Learning, OpenGL, Compiler Design  
+- 🌱 Learning: Full Stack Web Development
 - ⚡ Fun Fact: I break things just to fix them better.
 
 ---
@@ -48,10 +48,10 @@ Welcome to my GitHub! I'm a passionate developer, researcher, and learner from B
 ## 📂 Featured Projects
 
 - 🎧 **Store it-A Google Drive Clone**  
-  `Transformer + YOLO | Multimodal Fusion`
+  
 
 - 🌐 **Converso an ai Learning Assistent**  
-  `Modern UI/UX | Full Stack Bangladesh Payment`
+  
 
   
 
