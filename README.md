@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akshar Sen
+# 👋 Hi, I'm Dipalok Sen
 
 Welcome to my GitHub! I'm a passionate developer, researcher, and learner from Bangladesh 🇧🇩, always exploring the edge between creativity and technology.
 
@@ -66,4 +66,4 @@ Welcome to my GitHub! I'm a passionate developer, researcher, and learner from B
 ---
 
 > _"Stay curious. Break things. Build better."_  
-> — Akshar
+> — Dipalok
